@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace WebfishingSampleMod;
+namespace NapQOL;
 
 public class Config {
     [JsonInclude] public bool SomeSetting = true;

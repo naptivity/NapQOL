@@ -1,6 +1,6 @@
 ﻿using GDWeave;
 
-namespace WebfishingSampleMod;
+namespace NapQOL;
 
 public class Mod : IMod {
     public Config Config;

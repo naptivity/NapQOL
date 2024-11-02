@@ -1,11 +1,11 @@
 {
-  "Id": "WebfishingSampleMod",
-  "AssemblyPath": "WebfishingSampleMod.dll",
-  "PackPath": "WebfishingSampleMod.pck",
+  "Id": "Naptivity.NapQol",
+  "AssemblyPath": "NapQOL.dll",
+  "PackPath": "NapQOL.pck",
   "Metadata": {
-    "Name": "Webfishing Sample Mod",
-    "Author": "You!",
+    "Name": "NapQOL",
+    "Author": "Naptivity",
     "Version": "1.0.0",
-    "Description": "This is a sample mod."
+    "Description": "Random quality of life mods!"
   }
 }
