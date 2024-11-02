@@ -1,0 +1,11 @@
+{
+  "Id": "WebfishingSampleMod",
+  "AssemblyPath": "WebfishingSampleMod.dll",
+  "PackPath": "WebfishingSampleMod.pck",
+  "Metadata": {
+    "Name": "Webfishing Sample Mod",
+    "Author": "You!",
+    "Version": "1.0.0",
+    "Description": "This is a sample mod."
+  }
+}
