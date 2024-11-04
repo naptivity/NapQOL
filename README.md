@@ -13,7 +13,6 @@
 
 ## Plans:
 
-- auto-skip prompts after catching an item (theyre annoying)
 - auto/afk fishing (for that grind)
 - auto collect buddies (for that grind)
 - add button to tp to gambling shack (would be funny)
