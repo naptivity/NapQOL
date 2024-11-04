@@ -31,7 +31,7 @@ public class FasterReel : IScriptMod
         {
             if (waiter.Check(token))
             {
-                yield return token; //return comma token
+                yield return token; //return "DEFAULT" token
                 yield return new Token(TokenType.Comma);
                 yield return new ConstantToken(new BoolVariant(true));
                 yield return new Token(TokenType.Comma);
