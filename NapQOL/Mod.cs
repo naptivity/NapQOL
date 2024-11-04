@@ -12,16 +12,17 @@ public class Mod : IMod {
             modInterface.RegisterScriptMod(new TotalInventoryValue());
             modInterface.Logger.Information("[NapQOL] TotalInventoryValue loaded!");
         }
+        if (Config.FasterFishing)
+        {
+            modInterface.RegisterScriptMod(new FasterFishing());
+            modInterface.Logger.Information("[NapQOL] FasterFishing loaded!");
+        }
         //if (Config.GamblingTeleport)
         //{
         //    modInterface.RegisterScriptMod(new GamblingTeleport());
         //    modInterface.Logger.Information("[NapQOL] GamblingTeleport loaded!");
         //}
-        if (Config.FasterReel)
-        {
-            modInterface.RegisterScriptMod(new FasterReel());
-            modInterface.Logger.Information("[NapQOL] FasterReel loaded!");
-        }
+
     }
 
     public void Dispose() {
