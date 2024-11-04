@@ -1,6 +1,6 @@
 # NapQOL
 
-- quality of life mods for webfishing
+- random utility mods for WEBFISHING!
 
 ## Current Features:
 
