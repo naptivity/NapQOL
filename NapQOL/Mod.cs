@@ -7,8 +7,11 @@ public class Mod : IMod {
 
     public Mod(IModInterface modInterface) {
         this.Config = modInterface.ReadConfig<Config>();
-        modInterface.RegisterScriptMod(new ExampleScriptMod());
-        modInterface.Logger.Information("Hello, world!");
+        if (Config.TotalInventoryValue)
+        {
+            modInterface.RegisterScriptMod(new TotalInventoryValue());
+            modInterface.Logger.Information("[NapQOL] TotalInventoryValue loaded!");
+        }
     }
 
     public void Dispose() {

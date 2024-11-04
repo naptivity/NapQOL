@@ -3,5 +3,5 @@
 namespace NapQOL;
 
 public class Config {
-    [JsonInclude] public bool SomeSetting = true;
+    [JsonInclude] public bool TotalInventoryValue = true;
 }
