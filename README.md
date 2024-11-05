@@ -1,6 +1,6 @@
 # NapQOL
 
-- random utility mods for WEBFISHING!
+random utility mods for WEBFISHING!
 
 ## Current Features:
 
