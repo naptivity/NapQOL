@@ -11,8 +11,11 @@
 ![fastreel](https://github.com/user-attachments/assets/b2227333-13da-42f6-8b14-9cd152937fb2)
 
 
+## WIP:
+
+- add button to tp to gambling shack (would be funny)
+
 ## Plans:
 
 - auto collect buddies (for that grind)
-- add button to tp to gambling shack (would be funny)
 - teleportation anywhere + flying (questionable permission)
