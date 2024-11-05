@@ -17,6 +17,8 @@
 
 ## Plans:
 
+- show total inventory value somewhere nicer possibly
+- extend config functionality to allow custom faster fishing speeds
 - auto collect buddies (for that grind)
 - teleportation
   - make something like minecraft f3 menu (at least the coords part)
