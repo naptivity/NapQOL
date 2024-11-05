@@ -18,4 +18,8 @@
 ## Plans:
 
 - auto collect buddies (for that grind)
-- teleportation anywhere + flying (questionable permission)
+- teleportation
+  - make something like minecraft f3 menu (at least the coords part)
+  - interactive menu allowing inputting coordinate values]
+  - saved waypoints/coordinates?
+- flying
