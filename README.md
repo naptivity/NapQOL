@@ -13,7 +13,6 @@
 
 ## Plans:
 
-- auto/afk fishing (for that grind)
 - auto collect buddies (for that grind)
 - add button to tp to gambling shack (would be funny)
 - teleportation anywhere + flying (questionable permission)
