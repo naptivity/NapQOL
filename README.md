@@ -23,3 +23,5 @@
   - interactive menu allowing inputting coordinate values]
   - saved waypoints/coordinates?
 - flying
+
+unrelated but maybe i should make an api for gui modding once i manage to figure all that out with the above mods
