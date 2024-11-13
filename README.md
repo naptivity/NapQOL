@@ -4,7 +4,7 @@ random utility mods for WEBFISHING!
 
 ## Current Features:
 
-- show total inventory value (what you would gain if you were to sell your whole inventory) (broken due to new update)
+- show total inventory value (what you would gain if you were to sell your whole inventory) (broken due to new update, will fix)
 ![totalinvval](https://github.com/user-attachments/assets/8aad6326-beeb-4b31-a334-074c569b9400)
 
 - faster rod casting animations (near-instant rather than one second each)
