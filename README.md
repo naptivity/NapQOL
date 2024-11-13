@@ -4,7 +4,7 @@ random utility mods for WEBFISHING!
 
 ## Current Features:
 
-- show total inventory value (what you would gain if you were to sell your whole inventory)
+- show total inventory value (what you would gain if you were to sell your whole inventory) (broken due to new update)
 ![totalinvval](https://github.com/user-attachments/assets/8aad6326-beeb-4b31-a334-074c569b9400)
 
 - faster rod casting animations (near-instant rather than one second each)
@@ -19,11 +19,9 @@ random utility mods for WEBFISHING!
 
 - show total inventory value somewhere nicer possibly
 - extend config functionality to allow custom faster fishing speeds
-- auto collect buddies (for that grind)
-- teleportation
-  - make something like minecraft f3 menu (at least the coords part)
-  - interactive menu allowing inputting coordinate values
-  - saved waypoints/coordinates?
-- flying
+- click to move
+- customizable sound when bait hits 0
+- customizable sound when rod is reeling
+- weed lol
 
 unrelated but maybe i should make an api for gui modding once i manage to figure all that out with the above mods
